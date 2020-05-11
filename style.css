@@ -1,0 +1,21 @@
+/* div{color:aqua} */
+#dv1{
+    color:pink
+}
+#dv2{
+    color:blueviolet
+}
+.blue{
+color:blue;
+font-weight: bold;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.big{
+    font-size:22px
+}
+p.blue{
+    color:blue;
+}
+.blue-bold , #first-line{
+    font-size : 18px
+} 
